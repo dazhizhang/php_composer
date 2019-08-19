@@ -12,4 +12,6 @@ sudo chown -R `whoami`:admin /usr/local/bin <br>
 然后参照这篇文章<br>
 https://www.jianshu.com/p/fd1b53df3f4b<br>
 
+https://www.sitepoint.com/community/t/installing-and-running-composer/228585
+
 
